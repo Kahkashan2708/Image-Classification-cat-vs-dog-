@@ -18,3 +18,10 @@ This notebook implements an image classification pipeline using Convolutional Ne
 - Trained the model using `model.fit()` with training and validation data.
 - Evaluated the model performance on test data.
 - Visualized training history such as accuracy and loss.
+
+ ##  Libraries Used
+
+- keras
+- tensorflow
+- numpy
+- matplotlib
